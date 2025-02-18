@@ -1,1 +1,2 @@
-boss, lagranados, Granados, Luis
+boss, jaswegner, Wegner, Jackson
+employee, lagranados, Granados, Luis
